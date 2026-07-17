@@ -1,7 +1,7 @@
 import json
 
-sarcastic_file = "sarcastic.txt"
-not_sarcastic_file = "not_sarcastic.txt"
+sarcastic_file = "sarcastic.json"
+not_sarcastic_file = "not_sarcastic.json"
 
 with open("Sarcasm_Headlines_Dataset.json", "r", encoding="utf-8") as infile, \
      open(sarcastic_file, "w", encoding="utf-8") as sarcastic_out, \
