@@ -36,6 +36,3 @@ def guess(sentence):
         return "this is a sarcastic headline"
     else:
         return "this is a non sarcastic headline"
-
-
-print(guess("two cars destroyed the entire planet"))
