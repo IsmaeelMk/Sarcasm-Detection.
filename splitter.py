@@ -1,6 +1,5 @@
 import json
 
-input_file = "data.json"
 sarcastic_file = "sarcastic.txt"
 not_sarcastic_file = "not_sarcastic.txt"
 
